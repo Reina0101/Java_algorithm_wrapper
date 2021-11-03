@@ -99,7 +99,6 @@ public class AlgorithmEngine {
         dataRaw.setClassIndex(dataRaw.numAttributes() - 1);
         dataRaw.add(inst);
 
-        System.out.println(dataRaw);
         // Starts generate classifier function
         generateClassifier(dataRaw);
     }
