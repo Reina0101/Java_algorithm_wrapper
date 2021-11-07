@@ -1,6 +1,5 @@
 package wekawrapper;
 
-import jdk.swing.interop.SwingInterOpUtils;
 import weka.classifiers.Classifier;
 import weka.core.Attribute;
 import weka.core.DenseInstance;
